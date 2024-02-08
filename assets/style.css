@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.column-div{
+    display: inline-block;
+    width: 300px;
+    margin-right: 20px;
+}
+
+.box{
+    margin-bottom: 30px;
+    width: 300px;
+    height: 160px;
+}
+.box h3{
+    color: rgba(16,56,91,255);
+    font-weight: bolder;
+    margin-top: 5px;
+}
+.box hr{
+    color: rgba(105,105,105,255);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.box p{
+    color: rgba(105,105,105,255);
+    margin-bottom: 5px;
+}
+
